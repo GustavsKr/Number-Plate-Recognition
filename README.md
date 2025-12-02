@@ -1,6 +1,6 @@
 # 🚘 Latvian License Plate Detection & OCR
 
-Detect and read Latvian license plates from images using **YOLOv8** for object detection and **EasyOCR** for text recognition — all in Python.
+Detect and read Latvian license plates from images using **YOLOv8** for object detection and **EasyOCR** for text recognition - all in Python.
 
 ---
 
