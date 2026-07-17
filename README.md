@@ -25,7 +25,8 @@ This script:
 - Formats it for Latvian-style plates (`2 letters + 1-4 numbers`)
 - Returns the most common plate across all images
 
----
+
+**Note:** I do not claim any rights or ownership over the `license_plate_detector.pt` file. It is a pre-trained open-source model integrated into this project to handle the vehicle and plate detection logic.
 
 Tools:
 
